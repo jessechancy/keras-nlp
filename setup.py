@@ -38,8 +38,6 @@ setup(
         "absl-py",
         "numpy",
         "packaging",
-        "tensorflow",
-        "tensorflow-text",
     ],
     extras_require={
         "tests": [
