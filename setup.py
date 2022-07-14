@@ -38,6 +38,8 @@ setup(
         "absl-py",
         "numpy",
         "packaging",
+        "tensorflow-macos",
+        "tensorflow-metal"
     ],
     extras_require={
         "tests": [
